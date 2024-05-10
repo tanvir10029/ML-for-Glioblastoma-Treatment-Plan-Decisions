@@ -1,6 +1,6 @@
 # ML-for-Glioblastoma-Treatment-Plan-Decisions
 
-## Step 3: Tumor Localisation and Metrics
+## Step 3: Tumor Localisation and Metrics (ML For Health Step 3.ipynb)
 1. Before running the notebook, install FSleyes and ensure that FSL is installed in your environment
 2. After FSleyes is installed, add the plugin file (in the plugin folder) as a plugin for FSLeyes through File -> Load plugin.
     * Ensure that this plugin is in the FSLeyes plugin path
