@@ -1,6 +1,6 @@
 # ML-for-Glioblastoma-Treatment-Plan-Decisions
 
-## Step 3: 3D Brain Reconstruction (ML For Health Step 2.ipynb)
+## Step 2: 3D Brain Reconstruction (ML For Health Step 2.ipynb)
 
 1. You will have to use all the files under the folder 3D brain reconstruction to run this notebook
 2. In order to download data and run the code you will have to upload the kaggle-2.json file from the folder 3D brain reconstruction
