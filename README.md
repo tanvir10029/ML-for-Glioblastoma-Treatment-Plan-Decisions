@@ -3,9 +3,9 @@
 ## Step 2: 3D Brain Reconstruction (ML For Health Step 2.ipynb)
 
 1. You will have to use all the files under the folder 3D brain reconstruction to run this notebook
-2. In order to download data and run the code you will have to upload the kaggle-2.json file from the folder 3D brain reconstruction
-3. For filtering the data according to clinical relevence the file "train_labels.csv" must be used from 3D brain reconstruction
-4. For prediction load the model weights "3d_unet_model-2-2.h5" from the folder 3D brain reconstruction
+2. In order to download data and run the code you will have to upload the kaggle-2.json file from the folder data/3D brain reconstruction
+3. For filtering the data according to clinical relevence the file "train_labels.csv" must be used from data/3D brain reconstruction
+4. For prediction load the model weights "3d_unet_model-2-2.h5" from the folder data/3D brain reconstruction
 
 ## Step 3: Tumor Localisation and Metrics (ML For Health Step 3.ipynb)
 1. Before running the notebook, install FSleyes and ensure that FSL is installed in your environment
