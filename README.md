@@ -1,5 +1,14 @@
 # ML-for-Glioblastoma-Treatment-Plan-Decisions
 
+## Step 1: MGMT Promoter Prediction 
+### 3D CNN, 3D CNN+RNN, and EfficientNet (ML for Health Step 1a.ipynb)
+1. Download data from https://www.kaggle.com/competitions/rsna-miccai-brain-tumor-radiogenomic-classification/data (Files were too large for github)
+2. Run ML for Health Step 1a.ipynb
+
+Or
+
+1. Run the code at https://www.kaggle.com/code/tanvirahmedcornell/cnn-mlhealth
+
 ## Step 2: 3D Brain Reconstruction (ML For Health Step 2.ipynb)
 
 1. You will have to use all the files under the folder 3D brain reconstruction to run this notebook
