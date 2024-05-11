@@ -1,7 +1,7 @@
 # ML-for-Glioblastoma-Treatment-Plan-Decisions
 
 ## Step 1: MGMT Promoter Prediction 
-### 3D CNN, 3D CNN+RNN, and EfficientNet (ML for Health Step 1a.ipynb)
+### 3D CNN, 3D CNN+RNN, EfficientNet, and ResNet Ensemble (ML for Health Step 1a.ipynb)
 1. Download data from https://www.kaggle.com/competitions/rsna-miccai-brain-tumor-radiogenomic-classification/data (Files were too large for github)
 2. Run ML for Health Step 1a.ipynb
 
