@@ -9,6 +9,9 @@ Or
 
 1. Run the code at https://www.kaggle.com/code/tanvirahmedcornell/cnn-mlhealth
 
+Or
+To run ResNet Ensemble, run the "main" function in [main.py](https://github.com/tanvir10029/ML-for-Glioblastoma-Treatment-Plan-Decisions/blob/main/resnet-ensemble/working/main.py)
+
 ## Step 2: 3D Brain Reconstruction (ML For Health Step 2.ipynb)
 
 1. You will have to use all the files under the folder 3D brain reconstruction to run this notebook
